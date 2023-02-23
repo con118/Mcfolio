@@ -1,0 +1,52 @@
+/* Set basic styling for the entire page */
+body {
+	margin: 0; /* Remove default margin */
+	font-family: Arial, sans-serif; /* Use Arial or sans-serif font */
+	font-size: 16px; /* Set default font size to 16px */
+}
+
+/* Style the header section */
+header {
+	background-color: #f00094; /* Set background color to a bright pink */
+	color: #fff; /* Set text color to white */
+	padding: 20px; /* Add 20px of padding to all sides */
+	text-align: center; /* Center align the content */
+}
+
+/* Style the navigation section */
+nav ul {
+	list-style: none; /* Remove the bullet points from list items */
+	margin: 0; /* Remove default margin */
+	padding: 0; /* Remove default padding */
+}
+
+nav li {
+	display: inline-block; /* Display list items horizontally */
+	margin-right: 20px; /* Add 20px of margin to the right of each item */
+}
+
+nav a {
+	color: #fff; /* Set text color to white */
+	text-decoration: none; /* Remove underline from links */
+}
+
+/* Style the main content section */
+main {
+	max-width: 800px; /* Set maximum width to 800px */
+	margin: 0 auto; /* Center the content horizontally */
+	margin-left: 80px; /* Add 80px of margin to the left */
+}
+
+h2 {
+	font-size: 36px; /* Set font size to 36px */
+}
+
+/* Set the background color for the entire page */
+body {
+	background-color: rgba(233, 150, 122, 0.486); /* Set a semi-transparent shade of light coral */
+}
+
+/* Style the footer section */
+footer {
+	text-align: center; /* Center the content horizontally */
+}
